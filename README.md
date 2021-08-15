@@ -1,5 +1,5 @@
 # 8-week-sql-challenge 
-A series of 8 interesting SQL challenges that covers all the topics of SQL. <br />Challenges are described @ https://8weeksqlchallenge.com
+A series of 8 interesting SQL challenges that covering all the topics of SQL. <br />Challenges are described @ [here](https://8weeksqlchallenge.com)
 
 I am starting with excitig challenges this week while repo gets updated evey week further.<br /> Following is the estimated schedule along with reference to solutions. 
 
